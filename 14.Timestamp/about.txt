@@ -1,0 +1,12 @@
+This Windows batch script:
+
+Extracts the current date and time
+
+Formats them into a timestamp like 20250725_2250
+
+Runs adb logcat -d to dump the current logs
+
+Saves the logs to a file named like:
+logcat_20250725_2250.txt
+
+This is useful for collecting logs during app testing, crash reports, or debugging — each time-stamped for easy tracking.

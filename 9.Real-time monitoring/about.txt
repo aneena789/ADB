@@ -1,0 +1,5 @@
+To monitor real-time logs for a specific app, you use adb logcat with a filter based on the app’s package name or process ID (PID).
+adb logcat | findstr com.example.app
+Replace com.example.app with your app's actual package name (e.g., com.whatsapp).
+This filters the live log output to only show lines containing the app's package name. It's quick but may include unrelated logs that mention the package name as plain text.
+

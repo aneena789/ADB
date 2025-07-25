@@ -1,0 +1,3 @@
+The monkey command launches the app by simulating a user action.
+
+The am force-stop command is used to terminate the app's process as if the user swiped it away from the recent apps screen.

@@ -1,0 +1,2 @@
+The adb install command allows you to install an APK directly from your computer to your Android device without using the Play Store. It's commonly used by developers and testers to install debug builds or third-party apps.
+

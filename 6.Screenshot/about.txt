@@ -1,0 +1,1 @@
+The adb shell screencap command captures the current screen of your Android device and saves it as a PNG file. You then use adb pull to transfer it to your computer.

@@ -1,0 +1,1 @@
+This command displays a list of all packages (apps) installed on the device, including system apps and user-installed apps. It helps in identifying package names needed for debugging, launching, or uninstalling apps.

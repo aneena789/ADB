@@ -1,0 +1,9 @@
+The adb push command is used to copy a file or folder from your computer to an Android device over USB (or Wi-Fi if ADB over network is enabled). It is commonly used to transfer documents, media, test data, or configuration files to the device. For example, adb push file.txt /sdcard/Download/ sends file.txt from your PC to the phone's Download folder.
+
+
+
+
+
+
+
+

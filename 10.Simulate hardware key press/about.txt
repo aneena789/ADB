@@ -1,0 +1,11 @@
+Each of these uses ADB to simulate a hardware key press on the connected Android device. This is helpful for UI automation, remote testing, or triggering specific device behavior without physically pressing buttons.
+
+24 = Volume Up
+
+27 = Camera
+
+3 = Home
+
+26 = Power
+
+These commands work silently (no output unless there's an error), and the effects should be visible directly on the phone.

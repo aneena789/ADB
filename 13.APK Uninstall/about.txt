@@ -1,0 +1,2 @@
+The adb uninstall command removes an installed app from the device. It’s useful for quickly uninstalling apps during development or testing without using the phone's UI.
+

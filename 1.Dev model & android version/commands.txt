@@ -1,0 +1,21 @@
+ 1. Check ADB Version
+adb version
+This confirmed that ADB v1.0.41 is installed and running from:
+C:\Users\aneen\Downloads\platform-tools-latest-windows\platform-tools\adb.exe
+
+2. List Connected Devices
+adb devices
+This command listed your device as:
+C6UGNNOBCMLJ9X9D    device
+indicating that it is successfully connected and authorized.
+
+3. Get Device Model
+adb shell getprop ro.product.model
+Output:RMX3870
+This tells you the model number of the connected device.
+
+4. Get Android Version
+adb shell getprop ro.build.version.release
+Output:14
+This shows the device is running Android 14.
+

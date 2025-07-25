@@ -1,0 +1,1 @@
+Some ADB log commands like logcat and especially dmesg may fail or show permission denied errors on non-rooted devices, due to Android's security restrictions.

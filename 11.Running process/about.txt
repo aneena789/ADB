@@ -1,0 +1,1 @@
+The adb shell top command is similar to Task Manager but for Android. It helps developers and testers check which apps or services are consuming system resources, useful for performance debugging or monitoring app behavior.
